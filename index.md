@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog!
+---
 
 # This is my first GitHub page!
 
@@ -22,4 +23,3 @@ this is what the first subheading will be.
 ## Segment 2
 
 aaaaand the second
----
